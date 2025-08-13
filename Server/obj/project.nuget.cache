@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "RTu0e8FjIJE=",
+  "dgSpecHash": "zjazyWURBSM=",
   "success": true,
   "projectFilePath": "C:\\Users\\johnn\\OneDrive\\Documents\\MarketDataSimulator\\Server\\MarketData.Server.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\johnn\\.nuget\\packages\\google.protobuf\\3.31.1\\google.protobuf.3.31.1.nupkg.sha512",
+    "C:\\Users\\johnn\\.nuget\\packages\\grpc.tools\\2.72.0\\grpc.tools.2.72.0.nupkg.sha512"
+  ],
   "logs": []
 }
